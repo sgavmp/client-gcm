@@ -6,10 +6,10 @@ public interface Config {
 	//static final String APP_SERVER_URL = "http://192.168.1.17/gcm/gcm.php?shareRegId=1";
 
 	// GCM server using java
-	static final String APP_SERVER_URL = "http://powerful-temple-9588.herokuapp.com/GCMNotification?";
+	static final String APP_SERVER_URL = "URL DEL SERVIDOR/GCMNotification?";
 
 	// Google Project Number
-	static final String GOOGLE_PROJECT_ID = "564375465724";
+	static final String GOOGLE_PROJECT_ID = "ID del proyecto en GOOGLE";
 	
 	static final String REGISTER_NAME = "name";
 	
